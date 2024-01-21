@@ -29,6 +29,9 @@ The project involves loading and preprocessing data, handling missing values, ou
 - Predict order status accurately.
 - Compare the performance of logistic regression, random forest, and gradient boosting models.
 
+### Dataset
+[Click](https://disk.yandex.ru/d/nryOMxVqyEyBPg)
+
 ### Dataset features description
 * order_status (text): Order final status, label that indicates if an order was successfully delivered or not (`F` - finished, `C` - cancelled),
 * order_create_time (Timestamp) : Time when the order was placed
