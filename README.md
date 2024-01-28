@@ -79,8 +79,8 @@ Random Forest and Gradient Boosting models outperform Logistic Regression in pre
 
 - Kamyshnikov Dmitrii :
       - [GitHub](https://github.com/kama34)
-      - [Email](mailto:kamyshnikovdmitri@yandex.ru)
-      - [Telegram](https://t.me/+79101663108)
+      - [Email](mailto:d.kamyshnikov.offer@yandex.ru)
+      - [Telegram](https://t.me/kama_34)
 
 ## License
 Project kama34.PredictionOrderCancellation is distributed under the MIT license.
